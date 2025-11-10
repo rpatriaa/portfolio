@@ -1,5 +1,5 @@
 <template>
-  <div class="wrapper">
+  <div class="bg-layout-bg min-h-screen">
     <Navbar />
     <main>
       <slot />
@@ -8,22 +8,9 @@
 </template>
 
 <script setup>
-import Navbar from '../app/components/Navbar.vue'
+
 </script>
 
-<style scoped>
-.wrapper {
-  min-height: 100vh;
-  background: var(--layout-bg);
-  transition: background 0.3s ease;
-}
+<style scoped>  
 
-/* warna background per tema */
-:root {
-  --layout-bg: #f1f5f9;
-}
-
-.dark {
-  --layout-bg: #020617;
-}
 </style>
