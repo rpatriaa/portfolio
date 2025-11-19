@@ -25,9 +25,7 @@
             </span>
           </h2>
           <p class="mt-3 max-w-2xl text-sm md:text-base text-layout-surface">
-            Kumpulan project yang saya kerjakan: sistem internal, portfolio CMS,
-            dan eksperimen teknologi untuk melatih skill fullstack dan
-            arsitektur yang rapi.
+            Saya mengembangkan berbagai aplikasi mulai dari platform internal, sistem manajemen konten, hingga proyek eksperimen yang fokus pada peningkatan kemampuan full-stack serta penerapan pola arsitektur yang bersih dan mudah di-maintenance.
           </p>
         </div>
 
@@ -44,10 +42,12 @@
         <div class="w-full rounded overflow-hidden shadow-lg bg-bg-secondary">
           <img class="w-full" src="/images/projects/casaaisha.webp" alt="Sunset in the mountains">
           <div class="px-6 py-4">
-            <div class="font-bold text-xl text-text-secondary mb-2">Casa Aisha Landing Page</div>
-            <p class="text-text-primary text-base">
-                Landing page yang didesain untuk memasarkan dan mempromosikan properti hunian.
-            </p>
+            <div class="h-32">
+              <div class="font-bold text-xl text-text-secondary mb-2">Casa Aisha Landing Page</div>
+              <p class="text-text-primary text-base">
+                  Landing page yang didesain untuk memasarkan dan mempromosikan properti hunian.
+              </p>
+            </div>
             <div class="mt-4 flex items-center space-x-2 justify-between">
               <a href="https://casaaisha.com/" 
                class="inline-flex items-center gap-2 text-layout-surface hover:text-text-primary transition-colors duration-300"
@@ -70,12 +70,14 @@
         <div class="w-full rounded overflow-hidden shadow-lg bg-bg-secondary">
           <img class="w-full" src="/images/projects/portfolio-tailwindcss.webp" alt="Sunset in the mountains">
           <div class="px-6 py-4">
-            <div class="font-bold text-xl text-text-secondary mb-2">Portfolio TailwindCss</div>
-            <p class="text-text-primary text-base">
-              Project portfolio untuk mengimplementasikan dan melatih pemahaman HTML, CSS, dan TailwindCSS. Dibuat dengan mengikuti tutorial dari Pak Sandhika Galih.
-            </p>
+            <div class="h-32">
+              <div class="font-bold text-xl text-text-secondary mb-2">Portfolio TailwindCss</div>
+              <p class="text-text-primary text-base">
+                Project portfolio untuk mengimplementasikan dan melatih pemahaman HTML, CSS, dan TailwindCSS. Dibuat dengan mengikuti tutorial dari Pak Sandhika Galih.
+              </p>
+            </div>
             <div class="mt-4 flex items-center space-x-2 justify-between">
-              <a href="https://casaaisha.com/" 
+              <a href="https://rpatriaa.github.io/portfolio-tailwind-css//" 
                class="inline-flex items-center gap-2 text-layout-surface hover:text-text-primary transition-colors duration-300"
                target="_blank"
                rel="noopener noreferrer">
@@ -84,7 +86,7 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
               </svg>
               </a>
-              <a href="https://github.com/rpatriaa/Compro-casaaisha" 
+              <a href="https://github.com/rpatriaa/portfolio-tailwind-css" 
                class="inline-flex items-center gap-2 text-layout-surface hover:text-text-primary transition-colors duration-300"
                target="_blank"
                rel="noopener noreferrer">
@@ -99,7 +101,7 @@
     <div class="w-full mx-auto">
       <!-- CLIENTS SECTION -->
       <div class="mt-24 border-t border-layout-surface/50 pt-12 text-center">
-        <h3 class="text-2xl font-semibold text-text-primary mb-6">
+        <h3 class="text-2xl font-semibold text-text-primary">
           Clients I’ve worked with
         </h3>
 
@@ -110,7 +112,7 @@
             </span>
           </div>
           <div class="group flex items-center gap-3 px-4 py-3">
-            <img src="/images/clients/gunadarma.png" class="h-40 w-40 object-contain rounded-md opacity-90 group-hover:opacity-100" />
+            <img src="/images/clients/gunadarma.png" class="h-28 w-40 object-contain rounded-md opacity-90 group-hover:opacity-100" />
             <span class="text-sm md:text-base font-medium text-text-primary">
             </span>
           </div>
@@ -119,7 +121,7 @@
     </div>
 
     <div class="w-full mx-auto">
-      <div class="mt-24 border-t border-layout-surface/50 pt-12 text-end">
+      <div class="border-t border-layout-surface/50 pt-12 text-end">
         <h3 class="text-2xl font-semibold text-text-primary mb-6">
           Certifications & Partnerships
         </h3>
